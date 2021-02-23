@@ -4,8 +4,4 @@ admin, Assign initial tasks, Use taskManager.py to assign each team member with 
 JakeyDakey, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10/10/2019, 25/10/2019, No
 admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10/10/2019, 25/10/2019, Yes
 Jordan, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10/10/2019, 25/10/2019, Yes
-Jordan, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10/10/2019, 25/10/2019, Yes
-Jordan, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10/10/2019, 25/10/2019, Yes
-Jordan, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10/10/2019, 25/10/2019, Yes
-JakeyDakey, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10/10/2019, 25/10/2019, Yes
-croix, Write an essay, Write an essay about the anglo-boer war, 10/10/2020, 10/10/2021, No
+
