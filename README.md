@@ -12,21 +12,21 @@ This means displaying information for the user in an easy to read manner as well
 
 # Functions
 
-#reg_user
+# reg_user
 
 The function reg_user is called when the user selects the register user option in the main menu. It is designed to request a password and username form the user, after the initial
 inputs are recieved by the program the user will be asked to confirm the username and password. If the usernames and passwords match the username and password will be written to "user.txt".
 If they do not match an error messagee will be displayed. If the confirmation is a success a message will be displayed in the console saying it was a success.
 
-#add_task
+# add_task
 
 The program will request data from the user and save the data by creating a task entry in a txt file called tasks.
 
-#view_all
+# view_all
 
 view_all iterates through the "tasks.txt" where the index lines are split by ", " and dispalys the appropriate information in the terminal.
 
-#edit_task
+# edit_task
 
 edit_task declares a list, and requests inputs from the user. The list edit_list is assigned the value of stripped and split (, ) data read from the "tasks.txt" file.
 This allows for the replacement of specific indexes of data.
